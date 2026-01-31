@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+
+# Editor history / backups
+.history/
+
+# Python cache
+__pycache__/
+*.pyc
